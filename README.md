@@ -46,10 +46,4 @@ To-Do-List-Application/
 - GitHub Pages Deployment
 - Git and GitHub Basics
 
-## 🔮 Future Enhancements
 
-- Local Storage Support
-- Task Editing Feature
-- Task Categories
-- Due Date Functionality
-- Dark Mode
